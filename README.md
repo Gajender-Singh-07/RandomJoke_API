@@ -24,5 +24,5 @@ A fun and lightweight web application that fetches and displays random jokes fro
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/random-joke-generator.git
+git clone https://github.com/Gajender-Singh-07/RandomJoke_API.git
 cd random-joke-generator
